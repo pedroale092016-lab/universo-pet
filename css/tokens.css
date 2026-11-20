@@ -1,0 +1,20 @@
+/* Tokens — tema claro premium */
+:root {
+  --roxo: #7c3aed;
+  --roxo-escuro: #4c1d95;
+  --roxo-claro: #ede9fe;
+  --bege: #ffffff;
+  --areia: #f5f3ee;
+  --linha: #e9e4d8;
+  --amarelo: #fbbf24;
+  --amarelo-claro: #fef3c7;
+  --texto: #23202e;
+  --muted: #6f6a7d;
+  --branco: #ffffff;
+  --sombra: 0 12px 30px rgba(35, 32, 46, 0.1);
+  --sombra-suave: 0 6px 18px rgba(35, 32, 46, 0.06);
+  --radius: 20px;
+  --max: 1120px;
+  --font-titulo: 'Sora', 'Inter', system-ui, sans-serif;
+  --font-texto: 'Inter', system-ui, -apple-system, sans-serif;
+}
